@@ -1,4 +1,3 @@
-
 [submodule "ImageCaptioning"]
 	path = ImageCaptioning
 	url = git@github.com:Sayandeep-123/Image-Caption-Generator.git
